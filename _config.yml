@@ -58,9 +58,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Resume
         link: https://mert-emrem.github.io/files/CV.pdf
-        link_text: Project Website
+        link_text: Click here to see my resume.
         icon: fas fa-file-pdf
 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
