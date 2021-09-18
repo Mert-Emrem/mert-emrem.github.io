@@ -58,12 +58,12 @@ content:
     content:
       - layout: top-middle
         title:  
-        link: https://mert-emrem.github.io/folder/CV.pdf
+        link: https://mert-emrem.github.io/files/CV.pdf
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fas fa-file-pdf
-            url: https://mert-emrem.github.io/folder/CV.pdf
+            url: https://mert-emrem.github.io/files/CV.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
