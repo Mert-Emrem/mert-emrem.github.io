@@ -1,28 +1,28 @@
 # Site
-repository: sproogen/resume-theme
+repository: mert-emrem/mert-emrem.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
+name: Mert Emrem
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: mertemrem@gmail.com
+website: https://mert-emrem.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  Mert-Emrem
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: Mert Emrem
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -90,9 +90,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Izmir Institute of Technology
+        caption: 2017 - Ongoing
+        sub_title: BSc Mechanical Egnineering
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
