@@ -60,8 +60,7 @@ content:
       - layout: top-middle
         title:  
         link: https://mert-emrem.github.io/files/CV.pdf
-        # link_text: Project Website
-        text: [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+        link_text: Project Website
         icon: fas fa-file-pdf
 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
