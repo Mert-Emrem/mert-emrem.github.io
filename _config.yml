@@ -61,10 +61,9 @@ content:
         title:  
         link: https://mert-emrem.github.io/files/CV.pdf
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fas fa-file-pdf
-            url: CV
+        text: [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+        icon: fas fa-file-pdf
+
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
