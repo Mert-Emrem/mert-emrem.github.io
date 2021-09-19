@@ -57,16 +57,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Super project
         link: https://mert-emrem.github.io/files/CV.pdf
-        link_text: Click here to get my resume.
+        # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fas fa-file-pdf
-            url: https://mert-emrem.github.io/files/CV.pdf
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
+            url: github.com/sproogen/modern-resume-theme
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+             icon: fab fa-github
+             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
