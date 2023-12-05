@@ -60,7 +60,8 @@ content:
         title: Super project
         link: https://mert-emrem.github.io/files/CV.pdf
         # link_text: Project Website
-         link: https://mert-emrem.github.io/files/ME402 - Dr. Ozkol - P13-2.pdf
+        link: https://mert-emrem.github.io/files/ME402_Dr_Ozkol_P13_2.pdf
+        link: https://mert-emrem.github.io/files/AIESEC_certificate.pdf
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fas fa-file-pdf
